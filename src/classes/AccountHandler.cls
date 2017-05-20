@@ -8,4 +8,11 @@ public class AccountHandler {
             return null;
         }
     }
+    
+    //Start CR-X
+    //Description : Testing the GIT<->Salesforce movement
+    public static void testingGit(){
+    	system.debug('Some lines added for CR-X');
+    }
+    //End CR-X
 }
